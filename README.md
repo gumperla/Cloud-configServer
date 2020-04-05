@@ -1,0 +1,2 @@
+# Cloud-configServer
+Common Properties
